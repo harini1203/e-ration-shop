@@ -11,7 +11,7 @@
         $count = mysqli_num_rows($result);  
           
         if($count == 1){  
-header("Location: qn.html");
+header("Location: http://localhost/e%20ration%20shop/qn.html");
         }  
         else{  
 echo ("<script LANGUAGE='JavaScript'>
